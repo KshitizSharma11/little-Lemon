@@ -11,44 +11,11 @@
 - When clicking the Logout button, user will redirect back to login page, clearing all data saved from Profile.
 - Use SQLite Database to populate, query and filter menu items.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [How to use the project](#how-to-use-the-project)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-
-## Overview
-
-### How to use the project
-
-##### npm install && npm start
-##### Then, a QR Code wil appear on your terminal.
-##### On IOS Scan QR code through Camera app.
-##### On Android : Scan QR code through Expo Go app.
-
-##### You can also scan this [QR CODE](https://expo.dev/@marventures/little-lemon-app) to view the project. 
-
 ### Screenshot
 ![final_mockup](https://user-images.githubusercontent.com/108392678/217717918-a6f83c94-c1ab-4796-903e-388b9a67cdd9.jpg)
 ![Onboarding](https://user-images.githubusercontent.com/108392678/217715066-19026169-ab51-450e-b21c-cc925940d03e.jpg)
 ![Profile and Home](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.jpg)
 
-### Links
-
-- Github: [Code](https://github.com/marventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/@marventures/little-lemon-app) to see the demo.
-
-## My process
-
-### Built with
-
-- [React Native](https://reactnative.dev/docs/environment-setup) - React Native app built with expo
-- [SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite/) - For storing restaurant's menu items.
-- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/api/) - For storing user preferences.
-- [StyleSheet](https://reactnative.dev/docs/stylesheet) - For styles
 
 
 
